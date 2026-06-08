@@ -3,4 +3,4 @@ export const Card = ({card, onClick}) => {
         <div className="card-front">?</div>
         <div className="card-back">{card.value}</div>
     </div>
-}
+}// Ends Card

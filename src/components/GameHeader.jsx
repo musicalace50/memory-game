@@ -12,4 +12,4 @@ export const GameHeader = ({score, moves}) => {
             </div>
         </div>
     </div>
-}//ends gameHeader func
+}//Ends GameHeader 
